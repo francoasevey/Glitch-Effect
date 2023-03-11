@@ -26,13 +26,16 @@ body{
     92.5%{
         background: url(/img/glitch-image-1.png);
         background-size: cover;
+        opacity: 1;
     }
     95%{
         background: url(/img/glitch-image-2.png);
         background-size: cover;
+        opacity: 0;
     }
     97.5%{
         background: url(/img/glitch-image-3.png);
         background-size: cover;
+        opacity: 1;
     }
 }
