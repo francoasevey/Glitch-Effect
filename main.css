@@ -31,4 +31,8 @@ body{
         background: url(/img/glitch-image-2.png);
         background-size: cover;
     }
+    97.5%{
+        background: url(/img/glitch-image-3.png);
+        background-size: cover;
+    }
 }
